@@ -22,6 +22,7 @@
                 Margin="0,50,0,0"
                 Text="Log in"
                 Clicked="loginButton_Clicked"
+                Style="{StaticResource normalButton}"
                 />
     </StackLayout>
 
